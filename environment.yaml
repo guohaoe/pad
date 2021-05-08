@@ -1,0 +1,9 @@
+dependencies:
+  - python=3
+  - pip:
+    - spacy
+    - scipy
+    - numpy
+    - matplotlib
+    - sklearn
+    - requests
